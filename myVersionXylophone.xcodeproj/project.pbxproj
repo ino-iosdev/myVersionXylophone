@@ -152,7 +152,7 @@
 					};
 				};
 			};
-			buildConfigurationList = AD937BED22C61DBB002E2D88 /* Build configuration list for PBXProject "Xylophone" */;
+			buildConfigurationList = AD937BED22C61DBB002E2D88 /* Build configuration list for PBXProject "myVersionXylophone" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -347,7 +347,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = oi.inoyangpopper;
+				PRODUCT_BUNDLE_IDENTIFIER = oi.inoyangpopper.xylophone;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -365,7 +365,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = oi.inoyangpopper;
+				PRODUCT_BUNDLE_IDENTIFIER = oi.inoyangpopper.xylophone;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -375,7 +375,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		AD937BED22C61DBB002E2D88 /* Build configuration list for PBXProject "Xylophone" */ = {
+		AD937BED22C61DBB002E2D88 /* Build configuration list for PBXProject "myVersionXylophone" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AD937C0422C61DBE002E2D88 /* Debug */,
